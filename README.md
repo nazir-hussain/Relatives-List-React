@@ -18,6 +18,5 @@ Keys help React identify which node out the whole array has been changed (added/
 
 Acceptance Criteria
 
-Implementation of Key attribute
-
-Proper Naming convention for keys
+1. Implementation of Key attribute
+2. Proper Naming convention for keys
