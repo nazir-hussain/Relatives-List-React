@@ -15,7 +15,6 @@ Why to use keys?? <br>
 Keys help React identify which node out the whole array has been changed (added/removed/re-ordered). To give a unique identity to every element inside the array,
 
 
-
 Acceptance Criteria
 1. Implementation of Key attribute
 2. Proper Naming convention for keys
